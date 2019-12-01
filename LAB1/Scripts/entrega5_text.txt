@@ -1,0 +1,5 @@
+Per aquest últim exercici hem fet servir la function5 per simular el comportament de la funció que volem analitzar.
+Hem construït dues gràfiques per poder visualitzar aproximadament on estan els possibles mínims. A la gràfica de la superfície
+podem observar 4 punts foscos, aquest seran els 4 punts que haurem d'analitzar, a la gràfica de contorn podem aproximar-nos
+més als punts, els cercles blaus representen els punts mínims, amb ajuda de la gràfica podem obtenir els punts aproximats per
+cridar a la funció fminsearch. Els punts i els seus respectius valors són els següents:
